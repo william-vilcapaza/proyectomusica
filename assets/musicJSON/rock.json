@@ -1,0 +1,91 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"AC/DC",
+        "nombre" : "highway to hell",
+        "url":"assets/music/rock/ACDC - Highway to Hell (Live At River Plate, December 2009).mp3",
+        "duracion":209
+    },
+    {
+        "id":2,
+        "playlist":"rock",
+        "artista":"AC/DC",
+        "nombre" : "Thunderstruck",
+        "url":"assets/music/rock/ACDC - Thunderstruck (Official Video).mp3",
+        "duracion":344
+    },
+    {
+        "id":3,
+        "playlist":"rock",
+        "artista":"Bon Jovi",
+        "nombre" : "Always",
+        "url":"assets/music/rock/Bon Jovi - Always (Official Music Video).mp3",
+        "duracion":198
+    },
+    {
+        "id":4,
+        "playlist":"rock",
+        "artista":"Enanitos Verdes",
+        "nombre" : "Lamento Boliviano",
+        "url":"assets/music/rock/4-lamento-boliviano.mp3",
+        "duracion":200
+    },
+    {
+        "id":5,
+        "playlist":"rock",
+        "artista":"Guns And Roses",
+        "nombre" : "November Rain",
+        "url":"assets/music/rock/Guns N Roses - November Rain.mp3",
+        "duracion":298
+    },
+
+    {
+        "id":6,
+        "playlist":"rock",
+        "artista":"Guns And Roses",
+        "nombre" : "Sweet child o mine",
+        "url":"assets/music/rock/Guns N Roses - Sweet Child O Mine (Official Music Video).mp3",
+        "duracion":254
+    },
+    {
+        "id":7,
+        "playlist":"rock",
+        "artista":"Nirvana",
+        "nombre" : "Smells lick teen spirit",  
+        "url":"assets/music/rock/Nirvana - Smells Like Teen Spirit (Official Music Video).mp3",
+        "duracion":267
+    },
+    {
+        "id":8,
+        "playlist":"rock",
+        "artista":"PXNDX",
+        "nombre" : "Procedimientos para llegar a un comun acuerdo",
+        "url":"assets/music/rock/PXNDX - Procedimientos para llegar a un comun acuerdo.mp3",
+        "duracion":362
+    },
+    {
+        "id":9,
+        "playlist":"rock",
+        "artista":"Guns And Roses",
+        "nombre" : "November Rain",
+        "url":"assets/music/rock/9-november-rain.mp3",
+        "duracion":547
+    },
+    {
+        "id":10,
+        "playlist":"rock",
+        "artista":"Queen",
+        "nombre" : "I want to break free",
+        "url":"assets/music/rock/Queen - I Want To Break Free (High Quality).mp3",
+        "duracion":375
+    },
+    {
+        "id":11,
+        "playlist":"rock",
+        "artista":"Maroon 5",
+        "nombre" : "Memories",
+        "url":"http://mus6.musicafm.club/mp3/3e28ac4f-5cf9-4343-b0ef-4f8d70caba8a.mp3",
+        "duracion":375
+    }
+]

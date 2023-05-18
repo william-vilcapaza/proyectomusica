@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "playlist":"estudiar",
+        "artista":"Mozart",
+        "nombre" : "Lacrimosa",
+        "url":"assets/music/estudiar/Mozart - Lacrimosa.mp3",
+        "duracion":200
+    },
+    {
+        "id":2,
+        "playlist":"estudiar",
+        "artista":"Beethoven",
+        "nombre" : "Symphony N 5",
+        "url":"assets/music/estudiar/Beethoven - Symphony No. 5.mp3",
+        "duracion":448
+    },
+    {
+        "id":3,
+        "playlist":"estudiar",
+        "artista":"Mozart",
+        "nombre" : "RondoAllaTurca",
+        "url":"assets/music/estudiar/Mozart - Rondo Alla Turca (Turkish March).mp3",
+        "duracion":211
+    },
+    {
+        "id":4,
+        "playlist":"estudiar",
+        "artista":"Beethoven",
+        "nombre" : "Fur Elise",
+        "url":"assets/music/estudiar/Beethoven - Für Elise.mp3",
+        "duracion":211
+    },
+    {
+        "id":5,
+        "playlist":"estudiar",
+        "artista":"Beethoven",
+        "nombre" : "9na Sinfonia",
+        "url":"assets/music/estudiar/Beethoven 9na-Sinfonia.mp3",
+        "duracion":211
+    },
+    {
+        "id":6,
+        "playlist":"estudiar",
+        "artista":"Beethoven",
+        "nombre" : "Moonlight Sonata",
+        "url":"assets/music/estudiar/CLARO DE LUNA  (Moonlight Sonata)   - BEETHOVEN.mp3",
+        "duracion":211
+    }
+
+
+]

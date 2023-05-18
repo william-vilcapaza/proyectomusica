@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"BON JOVI",
+        "nombre" : "LIVING ON A PRAYER",
+        "url":"assets/music/deporte/Bon Jovi - Livin On A Prayer.mp3",
+        "duracion":215
+    },
+    {
+        "id":2,
+        "playlist":"deporte",
+        "artista":"--------",
+        "nombre" : "THE FINAL COUNTOWN",
+        "url":"assets/music/deporte/Europe - The Final Countdown (Official Video).mp3",
+        "duracion":158
+    },
+    {
+        "id":3,
+        "playlist":"deporte",
+        "artista":"ROBERT TEPPER",
+        "nombre" : "ANGEL OF THE CITY",
+        "url":"assets/music/deporte/Robert Tepper - Angel Of The City (Cobra Soundtrack).mp3",
+        "duracion":158
+    }
+    ,
+    {
+        "id":4,
+        "playlist":"deporte",
+        "artista":"Bruno Mars",
+        "nombre" : "TREASURE",
+        "url":"assets/music/deporte/RBruno Mars - Treasure (Official Music Video).mp3",
+        "duracion":158
+    }
+    ,
+    {
+        "id":5,
+        "playlist":"deporte",
+        "artista":"Mayor Lazer",
+        "nombre" : "Lean On",
+        "url":"assets/music/deporte/Major Lazer & DJ Snake - Lean On (feat. MØ) (Official Music Video).mp3",
+        "duracion":158
+    }
+    ,
+    {
+        "id":6,
+        "playlist":"deporte",
+        "artista":"Bruno Mars",
+        "nombre" : "Uptown Funk",
+        "url":"assets/music/deporte/Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.mp3",
+        "duracion":158
+    }
+    ,
+    {
+        "id":7,
+        "playlist":"deporte",
+        "artista":"Nirvana",
+        "nombre" : "Smells like teen spirit",
+        "url":"assets/music/deporte/Nirvana - Smells Like Teen Spirit (Official Music Video).mp3",
+        "duracion":158
+    }
+    ,
+    {
+        "id":3,
+        "playlist":"deporte",
+        "artista":"Survivor",
+        "nombre" : "Eye of the tiger",
+        "url":"assets/music/deporte/Survivor - Eye Of The Tiger (Official HD Video).mp3",
+        "duracion":158
+    }
+
+]
